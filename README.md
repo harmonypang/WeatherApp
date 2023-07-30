@@ -1,6 +1,9 @@
 # WeatherApp
  A web app which reports the real-time weather for Hong Kong.
 
+API: <br>
+ • AccuWeather
+
  Stacks: <br>
  • Node.js <br>
  • Pug <br>
