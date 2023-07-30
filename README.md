@@ -1,17 +1,17 @@
 # WeatherApp
  A web app which reports the real-time weather for Hong Kong.
 
- Skills:
+ Skills: <br>
  • Send API requests using NodeJS <br>
- • Set up a server using NodeJS
- • Display data from the backend on the front end using Pug
+ • Set up a server using NodeJS <br>
+ • Display data from the backend on the front end using Pug 
 
- Stacks:
- • Node.js
- • Pug
- • JavaScript
- • CSS3
- • HTML5
+ Stacks: <br>
+ • Node.js <br>
+ • Pug <br>
+ • JavaScript <br>
+ • CSS3 <br>
+ • HTML5 <br>
 
- IDE:
- • Visual Studio Code
+ IDE: <br>
+ • Visual Studio Code 
