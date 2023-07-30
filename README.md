@@ -1,5 +1,5 @@
 # WeatherApp
- A web app which reports the real-time weather for Hong Kong.
+ A full-stack website which reports the real-time weather for Hong Kong.
 
  Demo: <br>
  <img src="https://i.imgur.com/YS4U553.png"> <br>
