@@ -1,6 +1,10 @@
 # WeatherApp
  A web app which reports the real-time weather for Hong Kong.
 
+ Demo: <br>
+ <img src="https://i.imgur.com/YS4U553.png"> <br>
+ <img src="https://i.imgur.com/0lud6aN.png">
+
 API: <br>
  • AccuWeather
 
