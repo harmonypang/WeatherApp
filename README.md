@@ -2,7 +2,7 @@
  A web app which reports the real-time weather for Hong Kong.
 
  Skills:
- • Send API requests using NodeJS
+ • Send API requests using NodeJS <br>
  • Set up a server using NodeJS
  • Display data from the backend on the front end using Pug
 
