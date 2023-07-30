@@ -1,6 +1,8 @@
 # WeatherApp
  A full-stack website which reports the real-time weather for Hong Kong.
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/harmonypang/WeatherApp)
+
  Demo: <br>
  <img src="https://i.imgur.com/YS4U553.png"> <br>
  <img src="https://i.imgur.com/0lud6aN.png">
