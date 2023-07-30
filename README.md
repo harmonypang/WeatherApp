@@ -1,4 +1,4 @@
-# WeatherApp_Node.js_Pug
+# WeatherApp
  A web app which reports the real-time weather for Hong Kong.
 
  Skills:
