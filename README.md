@@ -6,6 +6,19 @@ Features: <br>
 • Display data from the backend on the front end using Pug & CSS3 <br>
 • Set up a server using Node.js
 
+API: <br>
+ • AccuWeather
+
+Stacks: <br>
+ • Node.js <br>
+ • Pug <br>
+ • JavaScript <br>
+ • CSS3 <br>
+ • HTML5 <br>
+
+IDE: <br>
+ • Visual Studio Code 
+
 Click to run this project: <br>
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/harmonypang/WeatherApp)
 
@@ -21,15 +34,4 @@ How to run: <br>
  <img src="https://i.imgur.com/YS4U553.png"> <br>
  <img src="https://i.imgur.com/0lud6aN.png">
 
-API: <br>
- • AccuWeather
 
- Stacks: <br>
- • Node.js <br>
- • Pug <br>
- • JavaScript <br>
- • CSS3 <br>
- • HTML5 <br>
-
- IDE: <br>
- • Visual Studio Code 
