@@ -2,8 +2,8 @@
  A full-stack website which reports the real-time weather for Hong Kong.
 
 Features:
-• Send API requests to Accuweather using Node.js
-• Display data from the backend on the front end using Pug & CSS3
+• Send API requests to Accuweather using Node.js <br>
+• Display data from the backend on the front end using Pug & CSS3 <br>
 • Set up a server using Node.js
 
 Click to run this project:
