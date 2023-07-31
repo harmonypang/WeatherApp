@@ -1,5 +1,5 @@
 # WeatherApp
- A full-stack website which reports the real-time weather for Hong Kong.
+ A full-stack web app which reports the real-time weather for Hong Kong.
 
 Features: <br>
 • Send API requests to Accuweather using Node.js <br>
