@@ -23,7 +23,7 @@ Click to run this project: <br>
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/harmonypang/WeatherApp)
 
 How to run: <br>
-1. After entering GitPod, click "app.js" file. <br>
+1. After entering Gitpod, click "app.js" file. <br>
 2. Click "Run and debug" in the left-side toobar which is a play button. <br>
 3. Again, click "Run and debug". <br>
 4. A search bar will pop up on the top, click "Node.js" debugger. <br>
