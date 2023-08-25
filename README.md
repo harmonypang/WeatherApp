@@ -30,8 +30,4 @@ How to run: <br>
 5. In the terminal, Ctrl + Click the link "http://localhost:3000" (If nothing's shown, close the notifications at the bottom right corner and try again this step). <br>
 6. You should now see the webpages just like the screenshots below.
 
- Screenshot: <br>
- <img src="https://i.imgur.com/YS4U553.png"> <br>
- <img src="https://i.imgur.com/0lud6aN.png">
-
 
